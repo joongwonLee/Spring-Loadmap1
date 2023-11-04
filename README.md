@@ -1,6 +1,6 @@
-# Spring-Study
+# Spring-Loadmap1
 
-## Inflearn 김영한님 Spring 강의 예제 코드 및 내용 정리를 위한 레포지토리입니다. 
+## Inflearn 김영한님 Spring 로드맵1의 강의 예제 코드 및 내용 정리를 위한 레포지토리입니다. 
 
 ### 목차
 
